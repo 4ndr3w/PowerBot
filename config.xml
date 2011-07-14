@@ -1,0 +1,4 @@
+<PowerBot>
+	<irc server="irc.example.com" port="6667" nick="PowerBot" nickserv="" channel="#channel" />
+    <module name="examplemod" />
+</PowerBot>
